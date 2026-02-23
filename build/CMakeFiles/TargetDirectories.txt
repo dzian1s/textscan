@@ -1,0 +1,3 @@
+C:/Users/47sok/cpp/textscan/build/CMakeFiles/textscan.dir
+C:/Users/47sok/cpp/textscan/build/CMakeFiles/edit_cache.dir
+C:/Users/47sok/cpp/textscan/build/CMakeFiles/rebuild_cache.dir
